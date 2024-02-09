@@ -1,0 +1,21 @@
+/* nav a{
+    transition-duration: 0.7s;
+}
+nav a:hover{
+    background-color: gainsboro;
+    padding: 10px;
+    border-radius: 15px;
+    text-shadow: 3px 3px 3px red;
+    font-size: 18px;
+}
+.banner{
+    background-image: url(portrait-handsome-fashion-stylish-hipster-businessman-model-dressed-elegant-brown-suit-sitting-near-dark.jpg);
+    /* object-fit: cover; */
+    background-repeat: no-repeat;
+    height: 100%;
+    width: 100%;
+    
+}
+back.{
+    background-image: url(portrait-handsome-smiling-stylish-young-man.jpg);
+} */
